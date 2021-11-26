@@ -1,7 +1,4 @@
-/**
- * 作者：编程小石头
- * 微信：2501902696
- */
+
 var app = getApp()
 let db = wx.cloud.database();
 Page({
